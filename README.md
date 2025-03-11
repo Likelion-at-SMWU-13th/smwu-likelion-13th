@@ -9,17 +9,20 @@
 ### 🎨 PM/Design 운영진
 | <img src="https://avatars.githubusercontent.com/u/162779239?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/162848778?v=4" width="100"> |
 |:---:|:---:|
-| [김보미](https://github.com/bomi03) <br> **기획/디자인장** | [박우현](https://github.com/WooHyunn) <br> **운영부장** |
+|[김보미](https://github.com/bomi03)|[박우현](https://github.com/WooHyunn)|
+|**기획/디자인장**|**운영부장**|
 
 ### 🪄 Frontend 운영진
 | <img src="https://avatars.githubusercontent.com/u/162423549?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/150876747?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/130419669?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/141445766?v=4" width="100"> |
 |:---:|:---:|:---:|:---:|
-| [강주은](https://github.com/kangjuen) <br> **홍보부장** | [성윤정](https://github.com/ynzung) <br> **회장**| [유동은](https://github.com/uehddms) <br> **프론트엔드장** | [이현정](https://github.com/hyhy-j) <br> **홍보부장** |
+|[강주은](https://github.com/kangjuen)|[성윤정](https://github.com/ynzung)|[유동은](https://github.com/uehddms)|[이현정](https://github.com/hyhy-j)|
+|**홍보부장**|**회장**|**프론트엔드장**|**홍보부장**|
 
 ### ⚙️ Backend 운영진
 | <img src="https://avatars.githubusercontent.com/u/110973127?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/162777421?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/113892409?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/111862541?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/128593886?v=4" width="100"> |
 |:---:|:---:|:---:|:---:|:---:|
-| [경민서](https://github.com/mxinseo) <br> **총무** | [서문지](https://github.com/SEOMUNJI) <br> **매니저** | [유채민](https://github.com/chaeminyu) <br> **부회장** | [정지윤](https://github.com/y11n) <br> **백엔드장** | [홍상희](https://github.com/SangHee-Hong) <br> **서기** |
+|[경민서](https://github.com/mxinseo)|[서문지](https://github.com/SEOMUNJI)|[유채민](https://github.com/chaeminyu)|[정지윤](https://github.com/y11n)|[홍상희](https://github.com/SangHee-Hong)|
+|**총무**|**매니저**|**부회장**|**백엔드장**|**서기**|
 
 ---
 
